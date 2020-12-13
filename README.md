@@ -1,6 +1,6 @@
 # Realtime ObjectDetection with flask
 pytorchとflaskを使用した物体検出webアプリケーションです。  
-[https://github.com/qfgaohao/pytorch-ssd]をもとにしています。
+[https://github.com/qfgaohao/pytorch-ssd] をもとにしています。
 
 ## 環境構築
 1. Anacondaをダウンロードし、実行権限を付与して実行
